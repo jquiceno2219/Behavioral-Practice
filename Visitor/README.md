@@ -26,5 +26,5 @@ Una clase abstracta `Visitor` define métodos para visitar distintos objetos. Ca
 - **Sistemas de cerraduras y llaves** donde hay muchos tipos de cerraduras y de llaves, y cada tipo de llave abre múltiples tipos de cerraduras. No sólo es necesario conocer los tipos de objetos involucrados, sino que el subconjunto de "información sobre una clave en particular que es relevante para ver si una llave en particular abre una cerradura en particular" es diferente entre los diferentes tipos de cerraduras. [2]
 
 ## Fuentes
-[1]: https://refactoring.guru/es/design-patterns/visitor-double-dispatch
-[2]: https://en.wikipedia.org/wiki/Double_dispatch
+1: https://refactoring.guru/es/design-patterns/visitor-double-dispatch
+2: https://en.wikipedia.org/wiki/Double_dispatch
